@@ -4,7 +4,6 @@ h4. By: Hunter Dolan (http://madebyhd.us)
 
 h4. Released under: MIT License
 
----------------------------------------------
 
 h2. Notes
 
@@ -19,7 +18,6 @@ You can bypass it by giving it this generic license
 
 
 
----------------------------------------------
 
 h2. Original Description
 
@@ -27,7 +25,6 @@ h2. Original Description
 
 p. For years I have loved changing up my wallpaper. But what if you could have a different wallpaper for ever part of the day. Have one in the morning, one in the afternoon, & one at night. With DeskTime that dream can now be a reality. DeskTime is a lightweight background service that will change your preset wallpaper depending on the time of the day. Right now you can only have 3 wallpapers but we plan to allow users to define custom Times & Dates.
 
-----------------------------------------------
 
 h2. License
 
